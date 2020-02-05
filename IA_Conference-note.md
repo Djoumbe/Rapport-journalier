@@ -27,47 +27,40 @@ Cela permettra d'être connecté, d'avoir de la visibilté et de créer un buisn
 Le **machine learning** = donner un certain nombre de données à l'algortihme et à reconnaître certaines choses grâce à cela.
 Un algorithme = suite d'instructions demandés à l'ordinateur nous donnant une réponse.
 
----------------
-
 Avec du machine learning par exemple, on peut créer des systèmes qui sont capables de créer des designs fashion pour un Top modèl.
 Il y a deux types réseaux de neurones dans l'algorithme, un qui analyse les données et l'autre qui repère si il est vrai ou faux.
-
-------------------
 
 Nos données et nos activités en ligne peuvent être prélevées en créeant un système de score social.
 L'IA peut génerer des vidéos et des personnes à parir d'une base de données.
 On peut même cloner les voix et les visages d'une personne et les transposer sur une vidéo.
 
--------------------
-
 Facebook a même fermé des faux comptes générés par des IA.
 L'IA peut même **rechercher des molécules** capabales de limiter une propagation d'un virus : le coronavirus par exemple.
-
--------------------
 
 Comment rendre une machine d'apprentissage de manière effcace ?
 Prendre un bon test de validation.
 
 Outils pour créer une machine learning :
-**Dask. Vaex. DataFrames. Pardsr. librairie : ipyleaflet**
+**Dask. Vaex. DataFrames. Pardsr. Librairie Python : ipyleaflet**
 
-Google a créer un nouveau moteur de recherche par rapport aux volume de données : **Dataset Serach**.
-Agriculture vision database.
+
+Google a récemment crée un nouveau moteur de recherche par rapport aux volume de données : **Dataset Serach**.
 
 Le Deep Learnig peut maintenant nous dire pourquoi elle interpètre certaines images à partir de son réseaux de neurones.
 
 Machine Learning semi-supervisé : 
 
-**Application Chat-bot** : permettre de gerer une conversation de manière automatique.
+**Application Chat-bot** : permettre de gerer une conversation de manière automatique
+
+--------------------------------
 
 
+**Jeremie Lecomte : Techncicien sénior en conversation IA**
 
-# Jeremie Lecomte : Techncicien sénior en conversation IA
+Il parle des limites de nos appareils actuels à faire des transactions avec une certaine lenteur (sélectionner un produit avec une multitude d'options, naviguer entre de nombreuses pages web pour valider un paiement ou une livraison,etc...)
 
-Il parle des limites de nos appareils actuelles à faire des transactions rapidement.
-
-La voix oral est d'une meuilleure efficacité pour des achats, conseils ou même tout simplement pour dialoguer avec son interlocuteur.
-C'est ses nombreuses raisons que Alexa, l'IA de Amazon fut crée.
+La voix oral est d'une bien meuilleure efficacité pour des achats, ventes, conseils ou même tout simplement pour dialoguer avec son interlocuteur.
+C'est pour l'une de ses nombreuses raisons que Alexa, l'IA de Amazon fut crée en 2014.
 
 
 
