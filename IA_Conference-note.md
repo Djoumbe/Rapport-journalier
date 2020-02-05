@@ -17,7 +17,7 @@ Travailler l'IA pour contrôler l'éthique et faire comprendre aux gens que l'in
 Les algorithmes ne sont pas nos ennemis.
 
 rIAlity est un moyen de comprendre l'IA, d'y accéder et de l'expirémenter pour son entreprise et son métier.
-Cela permettra d'être connecté, d'avoir de la visibilté et de créer un buisness en utilisant ces algorithmes nourris en données.
+Cela permettrer d'être connecté, avoir de la visibilté et de créer un buisness en utilisant ces algorithmes nourris en données.
 
 
 
