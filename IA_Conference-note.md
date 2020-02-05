@@ -29,20 +29,26 @@ Le **machine learning** = donner un certain nombre de données à l'algortihme e
 
 Un algorithme = suite d'instructions demandés à l'ordinateur nous donnant une réponse.
 
-Avec du machine learning par exemple, on peut créer des systèmes qui sont capables de créer des designs fashion pour un Top modèl.
+Avec du machine learning par exemple, on peut créer des systèmes qui sont capables de créer des designs fashion pour un Top modèle.
+
 Il y a deux types réseaux de neurones dans l'algorithme, un qui analyse les données et l'autre qui repère si ils sont vrais ou faux par rapport à sa fonction de reconnaissance définie.
 
 Nos données et nos activités en ligne peuvent être prélevées en créeant un système de score social.
+
 L'IA peut génerer des vidéos et des personnes à parir d'une base de données.
+
 On peut même cloner les voix et les visages d'une personne et les transposer sur une vidéo.
 
 Facebook a même fermé des faux comptes générés par des IA.
+
 L'IA peut même **rechercher des molécules** capabales de limiter la propagation d'un virus : le coronavirus par exemple.
 
 Comment rendre une machine d'apprentissage de manière effcace ?
+
 Prendre un bon test de validation fais parti des méthodes les plus indispensables.
 
 Outils pour créer une machine learning :
+
 **Dask. Vaex. DataFrames. Pardsr. Librairie Python : ipyleaflet**
 
 
