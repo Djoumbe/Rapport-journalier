@@ -26,19 +26,23 @@ Cela permettra d'être connecté, d'avoir de la visibilté et de créer un buisn
 **IA** = Intelligence Artificielle visant à imiter certaines techniques de l'intelligence humaine.
 Le **machine learning** = donner un certain nombre de données à l'algortihme et à reconnaître certaines choses grâce à cela.
 Un algorithme = suite d'instructions demandés à l'ordinateur nous donnant une réponse.
+
 ---------------
 
 Avec du machine learning par exemple, on peut créer des systèmes qui sont capables de créer des designs fashion pour un Top modèl.
 Il y a deux types réseaux de neurones dans l'algorithme, un qui analyse les données et l'autre qui repère si il est vrai ou faux.
+
 ------------------
 
 Nos données et nos activités en ligne peuvent être prélevées en créeant un système de score social.
 L'IA peut génerer des vidéos et des personnes à parir d'une base de données.
 On peut même cloner les voix et les visages d'une personne et les transposer sur une vidéo.
+
 -------------------
 
 Facebook a même fermé des faux comptes générés par des IA.
 L'IA peut même **rechercher des molécules** capabales de limiter une propagation d'un virus : le coronavirus par exemple.
+
 -------------------
 
 Comment rendre une machine d'apprentissage de manière effcace ?
@@ -58,7 +62,7 @@ Machine Learning semi-supervisé :
 
 
 
-# Jeremie Lecomte Techncicien sénior en conversation IA
+# Jeremie Lecomte : Techncicien sénior en conversation IA
 
 Il parle des limites de nos appareils actuelles à faire des transactions rapidement.
 
