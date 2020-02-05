@@ -24,7 +24,9 @@ Cela permettrer d'être connecté, avoir de la visibilté et de créer un buisne
 # Laurent Centisoy, Technicien en IA 
 
 **IA** = Intelligence Artificielle visant à imiter certaines techniques de l'intelligence humaine.
+
 Le **machine learning** = donner un certain nombre de données à l'algortihme et à reconnaître certaines choses grâce à cela.
+
 Un algorithme = suite d'instructions demandés à l'ordinateur nous donnant une réponse.
 
 Avec du machine learning par exemple, on peut créer des systèmes qui sont capables de créer des designs fashion pour un Top modèl.
