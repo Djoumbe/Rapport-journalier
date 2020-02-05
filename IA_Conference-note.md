@@ -64,7 +64,9 @@ Imposé à l'IA certains changements **d'altération de l'image** (effet miroir,
 --------------------------------
 
 
-**Jeremie Lecomte : Techncicien sénior en conversation en IA**
+# Jeremie Lecomte : Techncicien sénior en conversation en IA
+
+----------------------------------------------
 
 Il parle des limites de nos appareils actuels à faire des transactions avec une certaine lenteur (sélectionner un produit avec une multitude d'options, naviguer entre de nombreuses pages web pour valider un paiement ou une livraison,etc...)
 
