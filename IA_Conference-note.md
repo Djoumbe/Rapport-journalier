@@ -41,7 +41,7 @@ On peut même cloner les voix et les visages d'une personne et les transposer su
 
 Facebook a même fermé des faux comptes générés par des IA.
 
-L'IA peut même **rechercher des molécules** capabales de limiter la propagation d'un virus : le coronavirus par exemple.
+L'IA peut même **rechercher des molécules** capabale de limiter la propagation d'un virus : le coronavirus par exemple.
 
 Comment rendre une machine d'apprentissage de manière effcace ?
 
@@ -57,7 +57,7 @@ Google a récemment crée un nouveau moteur de recherche en rapport aux bases de
 Le Deep Learnig peut maintenant nous dire pourquoi elle interpètre certaines images à partir de son réseaux de neurones.
 
 Machine Learning semi-supervisé : 
-Imposé à l'IA certains changements **d'altération de l'image** (effet miroir, couleurs inversés) pour que l'algorithme reconnaisse ce type d'images pour reconnaître le visuel voulu.
+Imposé à l'IA certains changements **d'altération de l'image** (effet miroir, couleurs inversés) pour que l'algorithme reconnaisse le type de visuel attendu.
 
 **Application Chat-bot** : permettre de gérer une conversation de manière automatique avec un bot intelligent (malgré que ça ne soit pas encore au point).
 
