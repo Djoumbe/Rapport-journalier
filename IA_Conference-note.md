@@ -9,7 +9,7 @@ Une communauté 'IA' sur Meetup la plus importante en France (1387 personnes).
 
 Objectif : faire un territoire prospere avec l'intelligence artificielle
 
-13% est le seuil qui doit être atteint en 2025 pour les entreprises et les individus qui doivent être capable de maîtriser l'IA (inchallah lol).
+13% est le seuil qui doit être atteint en 2025 pour les entreprises et les individus qui devront être accompagnés.
 
 Les axes stratégiques de rIAlity : compétitivité, **data**, approppriation, convergence, compétences et écosystème.
 
