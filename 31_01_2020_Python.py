@@ -13,8 +13,37 @@
 # On ajoute le mot au dernier élément de la liste ligne (+= mot)
 # Sortie : liste ligne
 
+from re import findall
+
+s = "Onze ans déjà que cela passe vite Vous "
+s += "vous étiez servis simplement de vos armes la "
+s += "mort n‘éblouit pas les yeux des partisans Vous"
+s += "aviez vos portraits sur les murs de nos villes"
+i=0
+x= []
+while i in range(0,len(s), 23):
+    x.append(s[i:i+23])
+    print(x)
+
+
+
+def ligne (s):
+    x
+    
+    
+   while i in range (0, len(s), 23):
+        x.append(s[i:i+23])
+    return x
+        
+        
+print (ligne(s))
+        
+
+print([s[i:i+23] for i in range(0, len(s), 23)])
+
 
 p = "Onze ans déjà que cela passe vite Vous vous étiez servis simplement de vos armes la mort n‘éblouit pas les yeux des partisans Vous viez vos portraits sur les murs de nos villes"
+
 
 def ligne(p) :
     D = [""]
