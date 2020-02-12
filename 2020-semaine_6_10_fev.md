@@ -4,8 +4,11 @@
 
 
 le SGBD peut gérer des verrous, par exemple si **deux utilisateurs veulent manipuler une BD en même temps, les écritures multiples et concurrentes.**
+
 Il est possible de créer des contraintes personnalisés. 
+
 On peut stocker des données dans une vue matérialisée.
+
 L'index permet d'optimiser ses requêtes en inscrivant des mots clés pour que les requêtes soient plus rapides.
 Le **TRIGGER** est un objet de de base de structure qui permet de créer une boucle.
 
