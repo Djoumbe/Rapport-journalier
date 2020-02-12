@@ -10,6 +10,7 @@ Il est possible de créer des contraintes personnalisés.
 On peut stocker des données dans une vue matérialisée.
 
 L'index permet d'optimiser ses requêtes en inscrivant des mots clés pour que les requêtes soient plus rapides.
+
 Le **TRIGGER** est un objet de de base de structure qui permet de créer une boucle.
 
 **Les procédures stockées** peuvent créer des bases procédurales et permet d'utiliser des fonctions. 
