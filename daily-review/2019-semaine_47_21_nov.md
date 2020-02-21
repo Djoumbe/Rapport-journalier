@@ -16,7 +16,7 @@ L’analyse exploratoire à aussi pour but de détecter les valeurs rare ou manq
 
 ----------------------------------------------------------------
 
-Construction d’un modèle
+**Construction d’un modèle**
 
 -----------------------------------------------------
 Quantitatives continues (flottant) = Distance
